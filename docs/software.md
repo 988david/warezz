@@ -184,6 +184,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [How to deGoogle LineageOS in 2019](https://reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
 - [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
 - [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) - to download free Android apps.
+- [https://www.pinterest.com/pin/814236807619053897/](https://www.pinterest.com/pin/814236807619053897/)
 
 ### Alternative app stores
 
